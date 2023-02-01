@@ -215,6 +215,12 @@ tr {
   }
 }
 
+@media (max-width: 600px) {
+  .referrals img {
+    width: 100% !important;
+  }
+}
+
 .a-btn {
       text-decoration: none;
       -webkit-font-smoothing: antialiased;
